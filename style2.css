@@ -39,13 +39,14 @@ section{
 @media (max-width: 768px){
     .about{
         top: 17%;
-        margin: 30px 5px;
+        margin: 10px 10px;
     }
     .about h1{
         font-size: 40px;
     }
     .about p{
         line-height: 16px;
-        line-height: normal;
+        font-size: 14px;
+        text-align: left;
     }
 }
